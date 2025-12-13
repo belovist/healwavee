@@ -1,4 +1,4 @@
-# Landing Page Project
+# Heal Wave
 
 A modern, responsive, and beautifully designed landing page built with React and Vite.
 
@@ -42,7 +42,7 @@ Make sure you have Node.js and npm installed on your machine.
    ```
 2. **Navigate to the project directory and install dependencies:**
    ```sh
-   cd "Landing Page Design Request"
+   cd heal-wave
    npm install
    ```
 3. **Run the development server:**
